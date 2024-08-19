@@ -6,7 +6,7 @@
       "price": 4000,
       "description": "This is a well designed and crafted product that will suit many needs, in terms of quality, craftsmanship and aesthetics.",
       "rating": 3,
-      "image": "link_to_image"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "price": 19999,
       "description": "This is a well designed and crafted product that will suit many needs, in terms of quality, craftsmanship and aesthetics.",
       "rating": 4,
-      "image": "link_to_image"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "price": 35000,
       "description": "A comfortable and stylish sofa for your living room.",
       "rating": 4.5,
-      "image": "link_to_image"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "price": 25000,
       "description": "A sturdy and elegant dining table for your home.",
       "rating": 4,
-      "image": "link_to_image"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "price": 20000,
       "description": "A sleek and modern bed for a good night's sleep.",
       "rating": 4.2,
-      "image": "link_to_image"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "price": 15000,
       "description": "Spacious and functional kitchen cabinet.",
       "rating": 3.8,
-      "image": "link_to_image"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "price": 8000,
       "description": "Stylish and practical coffee table for your living room.",
       "rating": 4.1,
-      "image": "link_to_image"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "price": 12000,
       "description": "Organize your books and decor with this stylish bookshelf.",
       "rating": 4,
-      "image": "link_to_image"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
     },
     {
       "id": 9,
@@ -70,7 +70,7 @@
       "price": 7000,
       "description": "Modern TV stand with storage space.",
       "rating": 3.9,
-      "image": "link_to_image"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
     },
     {
       "id": 10,
@@ -78,7 +78,7 @@
       "price": 18000,
       "description": "Spacious wardrobe with ample storage.",
       "rating": 4.3,
-      "image": "link_to_image"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
     },
     {
       "id": 11,
@@ -86,7 +86,7 @@
       "price": 5000,
       "description": "Add warmth and style to your floor with this rug.",
       "rating": 3.7,
-      "image": "link_to_image"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
     },
     {
       "id": 12,
@@ -94,7 +94,7 @@
       "price": 3000,
       "description": "Illuminate your space with this stylish lamp.",
       "rating": 4.2,
-      "image": "link_to_image"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
     },
     {
       "id": 13,
@@ -102,7 +102,7 @@
       "price": 4500,
       "description": "Add privacy and elegance to your windows with these curtains.",
       "rating": 3.8,
-      "image": "link_to_image"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
     },
     {
       "id": 14,
@@ -110,7 +110,7 @@
       "price": 2500,
       "description": "Essential kitchen utensils for cooking and baking.",
       "rating": 4.1,
-      "image": "link_to_image"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
     },
     {
       "id": 15,
@@ -118,7 +118,7 @@
       "price": 12000,
       "description": "Comfortable and stylish dining chairs.",
       "rating": 4.0,
-      "image": "link_to_image"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
     },
     {
       "id": 16,
@@ -126,7 +126,7 @@
       "price": 5000,
       "description": "Enjoy a perfect cup of coffee with this coffee maker.",
       "rating": 4.3,
-      "image": "link_to_image"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
     },
     {
       "id": 17,
@@ -134,7 +134,7 @@
       "price": 2000,
       "description": "Toast your bread to perfection with this toaster.",
       "rating": 3.9,
-      "image": "link_to_image"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
     },
     {
       "id": 18,
@@ -142,7 +142,7 @@
       "price": 8000,
       "description": "Quickly reheat and cook your food with this microwave oven.",
       "rating": 4.2,
-      "image": "link_to_image"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
     },
     {
       "id": 19,
@@ -150,7 +150,7 @@
       "price": 25000,
       "description": "Keep your food fresh and organized with this refrigerator.",
       "rating": 4.5,
-      "image": "link_to_image"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
     },
     {
       "id": 20,
@@ -158,7 +158,7 @@
       "price": 20000,
       "description": "Efficiently clean your clothes with this washing machine.",
       "rating": 4.1,
-      "image": "link_to_image"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
     }
   ]
 }
