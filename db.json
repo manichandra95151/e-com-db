@@ -1,0 +1,164 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Red Seat",
+      "price": 4000,
+      "description": "This is a well designed and crafted product that will suit many needs, in terms of quality, craftsmanship and aesthetics.",
+      "rating": 3,
+      "image": "link_to_image"
+    },
+    {
+      "id": 2,
+      "name": "Office Seat",
+      "price": 19999,
+      "description": "This is a well designed and crafted product that will suit many needs, in terms of quality, craftsmanship and aesthetics.",
+      "rating": 4,
+      "image": "link_to_image"
+    },
+    {
+      "id": 3,
+      "name": "Blue Sofa",
+      "price": 35000,
+      "description": "A comfortable and stylish sofa for your living room.",
+      "rating": 4.5,
+      "image": "link_to_image"
+    },
+    {
+      "id": 4,
+      "name": "Wooden Dining Table",
+      "price": 25000,
+      "description": "A sturdy and elegant dining table for your home.",
+      "rating": 4,
+      "image": "link_to_image"
+    },
+    {
+      "id": 5,
+      "name": "Modern Bed",
+      "price": 20000,
+      "description": "A sleek and modern bed for a good night's sleep.",
+      "rating": 4.2,
+      "image": "link_to_image"
+    },
+    {
+      "id": 6,
+      "name": "Kitchen Cabinet",
+      "price": 15000,
+      "description": "Spacious and functional kitchen cabinet.",
+      "rating": 3.8,
+      "image": "link_to_image"
+    },
+    {
+      "id": 7,
+      "name": "Coffee Table",
+      "price": 8000,
+      "description": "Stylish and practical coffee table for your living room.",
+      "rating": 4.1,
+      "image": "link_to_image"
+    },
+    {
+      "id": 8,
+      "name": "Bookshelf",
+      "price": 12000,
+      "description": "Organize your books and decor with this stylish bookshelf.",
+      "rating": 4,
+      "image": "link_to_image"
+    },
+    {
+      "id": 9,
+      "name": "TV Stand",
+      "price": 7000,
+      "description": "Modern TV stand with storage space.",
+      "rating": 3.9,
+      "image": "link_to_image"
+    },
+    {
+      "id": 10,
+      "name": "Wardrobe",
+      "price": 18000,
+      "description": "Spacious wardrobe with ample storage.",
+      "rating": 4.3,
+      "image": "link_to_image"
+    },
+    {
+      "id": 11,
+      "name": "Rug",
+      "price": 5000,
+      "description": "Add warmth and style to your floor with this rug.",
+      "rating": 3.7,
+      "image": "link_to_image"
+    },
+    {
+      "id": 12,
+      "name": "Lamp",
+      "price": 3000,
+      "description": "Illuminate your space with this stylish lamp.",
+      "rating": 4.2,
+      "image": "link_to_image"
+    },
+    {
+      "id": 13,
+      "name": "Curtains",
+      "price": 4500,
+      "description": "Add privacy and elegance to your windows with these curtains.",
+      "rating": 3.8,
+      "image": "link_to_image"
+    },
+    {
+      "id": 14,
+      "name": "Kitchen Utensil Set",
+      "price": 2500,
+      "description": "Essential kitchen utensils for cooking and baking.",
+      "rating": 4.1,
+      "image": "link_to_image"
+    },
+    {
+      "id": 15,
+      "name": "Dining Chairs (Set of 4)",
+      "price": 12000,
+      "description": "Comfortable and stylish dining chairs.",
+      "rating": 4.0,
+      "image": "link_to_image"
+    },
+    {
+      "id": 16,
+      "name": "Coffee Maker",
+      "price": 5000,
+      "description": "Enjoy a perfect cup of coffee with this coffee maker.",
+      "rating": 4.3,
+      "image": "link_to_image"
+    },
+    {
+      "id": 17,
+      "name": "Toaster",
+      "price": 2000,
+      "description": "Toast your bread to perfection with this toaster.",
+      "rating": 3.9,
+      "image": "link_to_image"
+    },
+    {
+      "id": 18,
+      "name": "Microwave Oven",
+      "price": 8000,
+      "description": "Quickly reheat and cook your food with this microwave oven.",
+      "rating": 4.2,
+      "image": "link_to_image"
+    },
+    {
+      "id": 19,
+      "name": "Refrigerator",
+      "price": 25000,
+      "description": "Keep your food fresh and organized with this refrigerator.",
+      "rating": 4.5,
+      "image": "link_to_image"
+    },
+    {
+      "id": 20,
+      "name": "Washing Machine",
+      "price": 20000,
+      "description": "Efficiently clean your clothes with this washing machine.",
+      "rating": 4.1,
+      "image": "link_to_image"
+    }
+  ]
+}
