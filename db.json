@@ -1,144 +1,164 @@
 {
   "products": [
-  {
-    "id": 1,
-    "name": "Study Desk",
-    "price": 15000,
-    "description": "A compact and modern study desk with ample storage for all your essentials.",
-    "rating": 4.4
-  },
-  {
-    "id": 2,
-    "name": "Leather Recliner",
-    "price": 25000,
-    "description": "A luxurious leather recliner for ultimate comfort and relaxation.",
-    "rating": 4.7
-  },
-  {
-    "id": 3,
-    "name": "Bunk Bed",
-    "price": 18000,
-    "description": "A space-saving bunk bed, perfect for kids' rooms or guest spaces.",
-    "rating": 4.2
-  },
-  {
-    "id": 4,
-    "name": "Gaming Chair",
-    "price": 12000,
-    "description": "An ergonomic gaming chair designed for long hours of comfort.",
-    "rating": 4.6
-  },
-  {
-    "id": 5,
-    "name": "Outdoor Patio Set",
-    "price": 30000,
-    "description": "A stylish and durable outdoor patio set, perfect for garden or balcony.",
-    "rating": 4.8
-  },
-  {
-    "id": 6,
-    "name": "Wall Art Set",
-    "price": 8000,
-    "description": "A beautiful set of wall art pieces to add character to any room.",
-    "rating": 4.3
-  },
-  {
-    "id": 7,
-    "name": "Standing Lamp",
-    "price": 5000,
-    "description": "A modern standing lamp with adjustable brightness.",
-    "rating": 4.1
-  },
-  {
-    "id": 8,
-    "name": "Bookshelf",
-    "price": 10000,
-    "description": "A spacious bookshelf to organize your books and decor items.",
-    "rating": 4.5
-  },
-  {
-    "id": 9,
-    "name": "Kitchen Island",
-    "price": 22000,
-    "description": "A versatile kitchen island with additional storage and prep space.",
-    "rating": 4.7
-  },
-  {
-    "id": 10,
-    "name": "Bar Stools (Set of 2)",
-    "price": 7000,
-    "description": "A stylish set of bar stools, perfect for kitchen counters or bars.",
-    "rating": 4.4
-  },
-  {
-    "id": 11,
-    "name": "Futon Sofa Bed",
-    "price": 18000,
-    "description": "A versatile futon sofa bed that easily converts from seating to sleeping.",
-    "rating": 4.3
-  },
-  {
-    "id": 12,
-    "name": "Dining Set (Table + 6 Chairs)",
-    "price": 40000,
-    "description": "A complete dining set with a wooden table and six comfortable chairs.",
-    "rating": 4.7
-  },
-  {
-    "id": 13,
-    "name": "Office Desk Chair",
-    "price": 8000,
-    "description": "An ergonomic office chair designed for maximum comfort during work.",
-    "rating": 4.5
-  },
-  {
-    "id": 14,
-    "name": "Bookshelf with Glass Doors",
-    "price": 15000,
-    "description": "A premium bookshelf with glass doors to showcase your collection.",
-    "rating": 4.6
-  },
-  {
-    "id": 15,
-    "name": "Bean Bag Chair",
-    "price": 5000,
-    "description": "A comfortable bean bag chair, perfect for lounging in any room.",
-    "rating": 4.2
-  },
-  {
-    "id": 16,
-    "name": "Floor Mirror",
-    "price": 10000,
-    "description": "A large floor mirror that adds depth and style to your space.",
-    "rating": 4.4
-  },
-  {
-    "id": 17,
-    "name": "Portable Air Conditioner",
-    "price": 25000,
-    "description": "A compact and efficient portable air conditioner to cool your room.",
-    "rating": 4.5
-  },
-  {
-    "id": 18,
-    "name": "Sectional Sofa",
-    "price": 45000,
-    "description": "A spacious sectional sofa with customizable seating arrangements.",
-    "rating": 4.8
-  },
-  {
-    "id": 19,
-    "name": "Electric Fireplace",
-    "price": 20000,
-    "description": "A stylish electric fireplace that adds warmth and ambiance to your home.",
-    "rating": 4.6
-  },
-  {
-    "id": 20,
-    "name": "Wine Rack",
-    "price": 12000,
-    "description": "A sleek wine rack to store and display your wine collection.",
-    "rating": 4.4
-  }
+    {
+      "id": 1,
+      "name": "Red Seat",
+      "price": 4000,
+      "description": "This is a well designed and crafted product that will suit many needs, in terms of quality, craftsmanship and aesthetics.",
+      "rating": 3,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
+    },
+    {
+      "id": 2,
+      "name": "Office Seat",
+      "price": 19999,
+      "description": "This is a well designed and crafted product that will suit many needs, in terms of quality, craftsmanship and aesthetics.",
+      "rating": 4,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
+    },
+    {
+      "id": 3,
+      "name": "Blue Sofa",
+      "price": 35000,
+      "description": "A comfortable and stylish sofa for your living room.",
+      "rating": 4.5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
+    },
+    {
+      "id": 4,
+      "name": "Wooden Dining Table",
+      "price": 25000,
+      "description": "A sturdy and elegant dining table for your home.",
+      "rating": 4,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
+    },
+    {
+      "id": 5,
+      "name": "Modern Bed",
+      "price": 20000,
+      "description": "A sleek and modern bed for a good night's sleep.",
+      "rating": 4.2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
+    },
+    {
+      "id": 6,
+      "name": "Kitchen Cabinet",
+      "price": 15000,
+      "description": "Spacious and functional kitchen cabinet.",
+      "rating": 3.8,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
+    },
+    {
+      "id": 7,
+      "name": "Coffee Table",
+      "price": 8000,
+      "description": "Stylish and practical coffee table for your living room.",
+      "rating": 4.1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
+    },
+    {
+      "id": 8,
+      "name": "Bookshelf",
+      "price": 12000,
+      "description": "Organize your books and decor with this stylish bookshelf.",
+      "rating": 4,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
+    },
+    {
+      "id": 9,
+      "name": "TV Stand",
+      "price": 7000,
+      "description": "Modern TV stand with storage space.",
+      "rating": 3.9,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
+    },
+    {
+      "id": 10,
+      "name": "Wardrobe",
+      "price": 18000,
+      "description": "Spacious wardrobe with ample storage.",
+      "rating": 4.3,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
+    },
+    {
+      "id": 11,
+      "name": "Rug",
+      "price": 5000,
+      "description": "Add warmth and style to your floor with this rug.",
+      "rating": 3.7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
+    },
+    {
+      "id": 12,
+      "name": "Lamp",
+      "price": 3000,
+      "description": "Illuminate your space with this stylish lamp.",
+      "rating": 4.2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
+    },
+    {
+      "id": 13,
+      "name": "Curtains",
+      "price": 4500,
+      "description": "Add privacy and elegance to your windows with these curtains.",
+      "rating": 3.8,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
+    },
+    {
+      "id": 14,
+      "name": "Kitchen Utensil Set",
+      "price": 2500,
+      "description": "Essential kitchen utensils for cooking and baking.",
+      "rating": 4.1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
+    },
+    {
+      "id": 15,
+      "name": "Dining Chairs (Set of 4)",
+      "price": 12000,
+      "description": "Comfortable and stylish dining chairs.",
+      "rating": 4.0,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
+    },
+    {
+      "id": 16,
+      "name": "Coffee Maker",
+      "price": 5000,
+      "description": "Enjoy a perfect cup of coffee with this coffee maker.",
+      "rating": 4.3,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
+    },
+    {
+      "id": 17,
+      "name": "Toaster",
+      "price": 2000,
+      "description": "Toast your bread to perfection with this toaster.",
+      "rating": 3.9,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
+    },
+    {
+      "id": 18,
+      "name": "Microwave Oven",
+      "price": 8000,
+      "description": "Quickly reheat and cook your food with this microwave oven.",
+      "rating": 4.2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
+    },
+    {
+      "id": 19,
+      "name": "Refrigerator",
+      "price": 25000,
+      "description": "Keep your food fresh and organized with this refrigerator.",
+      "rating": 4.5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
+    },
+    {
+      "id": 20,
+      "name": "Washing Machine",
+      "price": 20000,
+      "description": "Efficiently clean your clothes with this washing machine.",
+      "rating": 4.1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuDQrOCr4VPWgYoEnns18qV_O5Mo1PHWH9Q&s"
+    }
   ]
 }
